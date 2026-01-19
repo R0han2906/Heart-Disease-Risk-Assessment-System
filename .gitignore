@@ -1,0 +1,9 @@
+# models (recommended NOT to push)
+*.pkl
+
+# data (optional – depends on hackathon rules)
+heart.csv
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
