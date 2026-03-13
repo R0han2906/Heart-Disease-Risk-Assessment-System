@@ -10,7 +10,7 @@ GitHub Stars
 GitHub Forks
 GitHub Issues
 
-<h3>🏆 Advanced Machine Learning Platform for Cardiovascular Risk Prediction</h3> <p align="center"> <a href="https://heart-disease-risk-assessment-system-eyob96qjvsgvhajfbpu5oj.streamlit.app/"><strong>View Live Demo »</strong></a> <br /> <br /> <a href="https://github.com/R0han2906/Heart-Disease-Risk-Assessment-System/issues/new?assignees=&labels=bug&template=bug_report.md">Report Bug</a> · <a href="https://github.com/R0han2906/Heart-Disease-Risk-Assessment-System/issues/new?assignees=&labels=enhancement&template=feature_request.md">Request Feature</a> · <a href="#documentation">Documentation</a> </p> </div><br/>
+<h3>🏆 Advanced Machine Learning Platform for Cardiovascular Risk Prediction</h3> <p align="center"> <a href="https://heart-disease-risk-assessment-system-eyob96qjvsgvhajfbpu5oj.streamlit.app/"><strong>View Live Demo »</strong></a> <br /> <br /> <a href="https://github.com/R0han2906/Heart-Disease-Risk-Assessment-System/issues/new?assignees=&labels=bug&template=bug_report.md">Report Bug</a> · <a href="https://github.com/R0han2906/Heart-Disease-Risk-Assessment-System/issues/new?assignees=&labels=enhancement&template=feature_request.md">Request Feature</a> </div><br/>
 📌 Executive Summary
 <table> <tr> <td align="center"><b>🎯 Purpose</b></td> <td align="center"><b>👥 Target Users</b></td> <td align="center"><b>🔧 Core Technology</b></td> <td align="center"><b>📊 Accuracy</b></td> </tr> <tr> <td align="center">Early CVD Detection</td> <td align="center">Healthcare Professionals & Patients</td> <td align="center">ML-Powered Risk Analysis</td> <td align="center">87.3%</td> </tr> </table><br/>
 🌟 Key Highlights
